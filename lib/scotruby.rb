@@ -1,5 +1,5 @@
 class ScotRuby
   def fun?
-    true
+    false
   end
 end
